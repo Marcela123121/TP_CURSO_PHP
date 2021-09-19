@@ -1,0 +1,57 @@
+.Cont1{
+    width:250px;
+    height: 250px;
+    background-color: red;
+    color:yellow;
+    border-style: solid;
+    border-color: none;
+    border-width: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    display:inline-block;
+    font-size: 40px;
+    margin-left: 10px;
+    text-align: left;
+}
+.Cont2{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: none;
+    border-width: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    display:inline-block;
+    font-size: 40px;
+    margin-left: 10px;
+    text-align: left;    
+}
+.CajaTexto
+{
+    background: cornsilk;
+    color:darkblue;
+    border-radius: 2px;
+    display:inline-block;
+    resize: none;
+    font-size: 12px;
+    margin-left: 20px;  
+    margin-right: 20px;
+    width:550px;
+    height:250px;
+}
+.Etiqueta{
+    border: solid;
+    border-color: darkred;
+    background: blue;
+    color:cyan;
+    font-size: 14px;
+    font:bold;
+    margin-left: 20px;  
+    margin-right: 20px;
+    border-radius: 15px;
+    padding-left: 15px;    
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
