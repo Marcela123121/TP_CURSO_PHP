@@ -1,0 +1,113 @@
+
+body{
+    margin:0px;
+    padding: 0px;
+
+   
+}
+header{
+    background-image:url(assets/img/b.jpg); 
+    filter: brightness(60%);
+    width: 100vw;
+    height: 90vw;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif,;
+    text-align: right;
+   
+}
+ .container
+
+h1{
+    color: white;
+    text-align:right;
+     width: 100vw;
+    height: 90vw;  
+}
+.p{
+color: white;
+
+}
+.section{
+    height: 60vh;
+        
+    
+}
+.p_centrado{  
+    margin-top: 50%;
+    margin-left:30px;
+    margin-right: 30px;
+    text-align:right;
+     
+}
+.div-der{
+    background-image: url(img/honolulu.jpg);
+    background-size: cover;
+}
+.oradores{
+    text-align:center;
+}
+
+.contenedor{
+    position: relative;
+    display:inline-block;
+    text-align:right;
+   
+}
+ 
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.boton1{
+    margin-left: 0px;
+    border:  3px solid white;
+          text-decoration:none;
+           padding: 1px;
+         border-radius: 2;
+           font-weight: bold;
+           display:inline-block;
+       margin-top:0px;
+       text-decoration-color: white;
+       }
+    .orador2{
+        box-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif,;
+         font: size 12px; 
+      color: white;
+margin-right:70px ;
+    }
+   
+  .tickets{
+    font-family: Verdana, Geneva, Tahoma, sans-serif,;
+    font-size: 18px;
+    margin-right: 50px;
+      border-radius:2 ;
+   
+      background-color:yellowgreen;
+  }
+.tick{
+     background-color: darkgreen;
+     color: darkgreen;
+ }
+  .boton3{
+     background-color: yellowgreen;
+    font-size: 16px;
+    text-align: center;
+      border-radius:1 ;
+      font-family: Verdana, Geneva, Tahoma, sans-serif,;
+      color: white;
+      margin-bottom: 10px;
+  }
+    .form{
+        margin-top:5px ; 
+        margin-left: 250px;
+display: flex;
+align-items: center;
+    }
+
+  footer{
+      background-color:rgb(0, 47, 61);
+  }
